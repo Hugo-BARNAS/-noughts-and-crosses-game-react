@@ -5,10 +5,15 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Contact](#contact)
-* [Website](#website)
 
 ## General info
 > project for discover React.js
+> Import multiple exports
+> Components
+> Children
+> States
+> Properties
+> Updating
 
 ## Screenshots
 
