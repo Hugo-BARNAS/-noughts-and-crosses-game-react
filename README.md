@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/React-made%20in-%2361DAFB)
+
 #  Project Name : noughts-and-crosses-game-react project
 
 ## Table of contents
